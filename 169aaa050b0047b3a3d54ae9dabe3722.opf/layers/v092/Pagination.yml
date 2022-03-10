@@ -4984,73 +4984,73 @@ annotations:
     reference: ''
     span:
       start: 1021192
-      end: 1023602
+      end: 1023609
   d36e1a10f1d94033ae69b26f9ee8f7ca:
     imgnum: 759
     reference: ''
     span:
-      start: 1023604
-      end: 1025878
+      start: 1023611
+      end: 1025885
   3b13511b603847efb3fe03c8098dd3b3:
     imgnum: 760
     reference: ''
     span:
-      start: 1025880
-      end: 1028089
+      start: 1025887
+      end: 1028096
   393c29d441c7491694435ce2b263292f:
     imgnum: 761
     reference: ''
     span:
-      start: 1028091
-      end: 1030347
+      start: 1028098
+      end: 1030354
   8197c616931c4c34bcf6c3308b9f7405:
     imgnum: 762
     reference: ''
     span:
-      start: 1030349
-      end: 1032650
+      start: 1030356
+      end: 1032657
   faa4b6a3c3834aa5a037cf63a2a3d751:
     imgnum: 763
     reference: ''
     span:
-      start: 1032652
-      end: 1034824
+      start: 1032659
+      end: 1034831
   4f21115803fb44129c7fea8957c31d79:
     imgnum: 764
     reference: ''
     span:
-      start: 1034826
-      end: 1036965
+      start: 1034833
+      end: 1036972
   417edaa8946e44458f1f953009716314:
     imgnum: 765
     reference: ''
     span:
-      start: 1036967
-      end: 1039225
+      start: 1036974
+      end: 1039232
   cd3b653cc41240f4b20ccba9de37399b:
     imgnum: 766
     reference: ''
     span:
-      start: 1039227
-      end: 1041570
+      start: 1039234
+      end: 1041577
   856b16a729b1484dbad28ebacac61a21:
     imgnum: 767
     reference: ''
     span:
-      start: 1041572
-      end: 1043918
+      start: 1041579
+      end: 1043925
   751d3c4df21542ffa44868bad39a2f4a:
     imgnum: 768
     reference: ''
     span:
-      start: 1043920
-      end: 1046183
+      start: 1043927
+      end: 1046190
   156d201f536d4246ab81e0a72eadf846:
     imgnum: 769
     reference: ''
     span:
-      start: 1046185
-      end: 1046311
+      start: 1046192
+      end: 1046318
 local_ids:
   064ffb8597c74f669ffafb40345d5847: 200000
   36fe12d33ae44adba904e24bc6b059a2: 200001
